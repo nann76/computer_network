@@ -1,0 +1,9 @@
+﻿  client.cpp
+C:\Users\nan\Desktop\socket\Client\Client\client.cpp(70,7): warning C4101: “n”: 未引用的局部变量
+C:\Users\nan\Desktop\socket\Client\Client\client.cpp(105,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码
+  1 of 51 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Client.vcxproj -> C:\Users\nan\Desktop\socket\Client\Client\Release\Client.exe
